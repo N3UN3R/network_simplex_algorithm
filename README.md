@@ -25,3 +25,15 @@ proportionalFairness.py
  networkSimplex_main.py
 - this programm contains the implementation of the network simplex algorithm.
   
+
+# needed files
+integer_tradingCost_tuples.json
+- contains trading costs for all possible trading pairs within the community
+
+pairsAndReductions.json
+- contains the used redutions to calculate the trading costs of household pairs
+
+tradingCost_prosumers_to_all_households_nested.json
+- contains a nested dictionary which contains all the trading costs of every
+  possible household pair within the community
+
