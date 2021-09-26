@@ -36,4 +36,8 @@ pairsAndReductions.json
 tradingCost_prosumers_to_all_households_nested.json
 - contains a nested dictionary which contains all the trading costs of every
   possible household pair within the community
+  
+ To run this algorithm household data is needed. As the algorithms are designed
+ to also run on API data archived household data needs to be in the same format
+ as API data
 
